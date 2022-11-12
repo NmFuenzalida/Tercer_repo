@@ -35,3 +35,6 @@ nano        # abre el editor Nano
 code        # abre el editor VS Code
 alias       # crear un atajo personalizado a un comando largo
 unalias     # elimina alias
+
+
+agregando mas cambios, probando 123
